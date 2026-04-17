@@ -33,14 +33,6 @@ No entanto, pode ser utilizado como base de estudo, prática e consulta para des
 - Design responsivo.
 - Navegação intuitiva.
 - Estrutura organizada.
-- 
-## 📂 Estrutura do Projeto
-
-/project
- ├── index.html
- ├── /css
- ├── /js
- └── /assets
 
 ## ⚙️ Como Executar
 
