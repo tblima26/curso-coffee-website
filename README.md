@@ -1,4 +1,4 @@
-# 🌐 Projeto Coffe Website
+# 🌐 Projeto Coffee Website
 
 Versão: 1.0.0
 
@@ -7,12 +7,6 @@ Versão: 1.0.0
 Este projeto consiste no desenvolvimento de um site moderno e responsivo, criado com foco em boas práticas de design, usabilidade e organização de código.
 
 Ele foi criado com fins educacionais e faz parte de um curso de desenvolvimento web.
-
-## ⚠️ Aviso
-
-Este projeto não tem como objetivo ser utilizado para fins comerciais ou de venda, já que os alunos do curso também terão acesso ao mesmo material.
-
-No entanto, pode ser utilizado como base de estudo, prática e consulta para desenvolvedores.
 
 ## 🎯 Objetivo
 
@@ -40,26 +34,9 @@ No entanto, pode ser utilizado como base de estudo, prática e consulta para des
 git clone https://github.com/tblima26/curso-coffee-website
 
 2. Acesse a pasta:
-cd ../curso-coffee-website
+cd curso-coffee-website
 
 3. Abra o arquivo index.html no navegador
-
-## 🔄 Versões
-
-v1.0.0
-- Estrutura inicial
-- Layout responsivo
-- Estilização base
-
-v1.1.0 (planejado)
-- Melhorias de responsividade
-- Animações
-- Otimizações
-
-v2.0.0 (futuro)
-- JavaScript avançado
-- Componentização
-- Curso completo
 
 ## 📚 Aprendizado
 
@@ -67,4 +44,4 @@ Projeto desenvolvido como parte de um processo contínuo de aprendizado, com obj
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença MIT, permitindo uso, modificação e distribuição livre, inclusive para fins comerciais.
