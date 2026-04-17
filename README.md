@@ -45,10 +45,10 @@ No entanto, pode ser utilizado como base de estudo, prática e consulta para des
 ## ⚙️ Como Executar
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/tblima26/curso-coffee-website
 
 2. Acesse a pasta:
-cd seu-repositorio
+cd ../curso-coffee-website
 
 3. Abra o arquivo index.html no navegador
 
