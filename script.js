@@ -1,4 +1,4 @@
-const navLinks = document,querySelectorAll(".nav-menu .nav-link");
+const navLinks = document.querySelectorAll(".nav-menu .nav-link");
 const menuOpenButton = document.querySelector("#menu-open-button");
 const menuCloseButton = document.querySelector("#menu-close-button");
 
@@ -20,15 +20,11 @@ const swiper = new Swiper('.slider-wrapper', {
   loop: true,
   spaceBetween: 25,
   grabCursor:true,
-
-  // If we need pagination
   pagination: {
     el: '.swiper-pagination',
     clickable: true,
     dynamicBullets: true,
-  },
-
-  // Navigation arrows
+  },  
   navigation: {
     nextEl: '.swiper-button-next',
     prevEl: '.swiper-button-prev',

@@ -12,8 +12,8 @@
 :root {
   --white: #fff;
   --dark: #252525;
-  --primary: #3b141c;
-  --secundary: #f3961c;
+  --primary: #4a3121;
+  --secundary: #d4a373;
   --light-pink: #faf4f5;
   --medium-gray: #ccc;
 
@@ -400,11 +400,11 @@ header .navbar {
 }
 .footer-section .social-link-list .social-link:hover,
 .footer-section .policy-text .policy-link:hover {
- color: var(--secundary);
+  color: var(--secundary);
 }
 .footer-section .policy-text .separator {
-margin: 0 5px;
-color: var(--white)
+  margin: 0 5px;
+  color: var(--white);
 }
 
 /* Responsivo */
