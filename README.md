@@ -41,6 +41,7 @@ cd curso-coffee-website
 ## 📚 Aprendizado
 
 Projeto desenvolvido como parte de um processo contínuo de aprendizado, com objetivo de futuramente se tornar um curso completo de desenvolvimento web.
+Link para acesso rapido: https://tblima26.github.io/curso-coffee-website/
 
 ## 📄 Licença
 
